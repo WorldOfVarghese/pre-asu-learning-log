@@ -57,7 +57,7 @@ The computer follows exact instructions. Most errors came from being in the wron
 
 ## Confidence level
 
-Current confidence: __ / 10
+Current confidence: 10 / 10
 
 ## What I need to improve next week
 
